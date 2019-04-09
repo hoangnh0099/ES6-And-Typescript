@@ -8,9 +8,9 @@
 - Lesson 4: "let" in Typescript (Done)
 - Lesson 5: "let" in for loop (Done)
 - Lesson 6: "const" keyword (Done)
-- Lesson 7: Datatype
-- Lesson 8: Arrow function
-- Lesson 9: "this" keyword
+- Lesson 7: Datatype (Done)
+- Lesson 8: Arrow function (Done)
+- Lesson 9: "this" keyword (Done)
 - Lesson 10: Default value for function parameter
 - Lesson 11: Rest parameter
 - Lesson 12: Spread parameter
