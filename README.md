@@ -2,12 +2,12 @@
 
 ## Roadmap
 
-- Lesson 1: Typescript overview
-- Lesson 2: Setup
-- Lesson 3: Hoisting
-- Lesson 4: "let" in Typescript
-- Lesson 5: "let" in for loop
-- Lesson 6: "const" keyword
+- Lesson 1: Typescript overview (Done)
+- Lesson 2: Setup (Done)
+- Lesson 3: Hoisting (Done)
+- Lesson 4: "let" in Typescript (Done)
+- Lesson 5: "let" in for loop (Done)
+- Lesson 6: "const" keyword (Done)
 - Lesson 7: Datatype
 - Lesson 8: Arrow function
 - Lesson 9: "this" keyword
